@@ -2,10 +2,9 @@
 
 ## I'm a 3rd year Computer Science student with a goal of becoming a <br /> Full Stack Web Developer.
 
-- 🔭 I’m currently working on finishing Back-end course.
-- 🥅 2020 Goals: Learn as much as possible.
+- 🔭 I’m currently working on finishing personal projects.
+- 🥅 2021 Goals: Learn React, Redux, TypeScript..
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love cats AND dogs.
 
 ---
 
